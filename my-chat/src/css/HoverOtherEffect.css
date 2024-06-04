@@ -1,0 +1,15 @@
+.sd-conversation:hover
+{
+    border:1px solid black;
+    transition: all 2s ease-in;
+}
+.sd-search:hover
+{
+    border:1px solid black;
+    transition: all 2s ease-in;
+}
+.sd-headder:hover
+{
+    border: 1px solid black;
+    transition: all 2s ease-in-out;
+}
